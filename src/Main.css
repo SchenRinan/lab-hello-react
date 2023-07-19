@@ -1,0 +1,23 @@
+main{
+    color: rgb(32, 37, 52);
+    display: flex;
+    justify-content: space-between;
+    margin: 100px;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    width: 200px;
+    justify-content: center;
+}
+
+.container h4{
+    font-size: 24px;
+    margin: 0;
+}
+
+.container p{
+    margin: 0;
+}
